@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pcc176_tpFinal"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\_deps\;CMake Files\cmake-build-debug\_deps\catch2-src\;CMake Files\cmake-build-debug\_deps\catch2-src\contrib\;CMake Files\cmake-build-debug\_deps\benchmark-src\;CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\;CMake Files\cmake-build-debug\_deps\benchmark-src\src\;CMake Files\cmake\;CMake Files\source\;CMake Files\examples\;CMake Files\tests\;CMake Files\tests\benchmarks\;CMake Files\tests\unit_tests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Experimental">
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 Experimental"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Continuous">
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 Continuous"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Nightly">
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 Nightly"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 test"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="portfolio">
+				<Option output="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/source/portfolio.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/source"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DNOMINMAX"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/source"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/range-v3-src/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source\Makefile VERBOSE=1 portfolio"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="portfolio/fast">
+				<Option output="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/source/portfolio.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/source"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DNOMINMAX"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/source"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/range-v3-src/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source\Makefile VERBOSE=1 portfolio/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello">
+				<Option output="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/examples/hello.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/examples"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DNOMINMAX"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\examples\Makefile VERBOSE=1 hello"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\examples\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\examples\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\examples\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello/fast">
+				<Option output="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/examples/hello.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/examples"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DNOMINMAX"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\examples\Makefile VERBOSE=1 hello/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\examples\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\examples\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\examples\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="benchmark_main">
+				<Option output="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-build/src/benchmark_main.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-build/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DNOMINMAX"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add option="-DHAVE_STD_REGEX"/>
+					<Add option="-DHAVE_STEADY_CLOCK"/>
+					<Add option="-DNDEBUG"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/include"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/../include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 benchmark_main"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="benchmark_main/fast">
+				<Option output="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-build/src/benchmark_main.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-build/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DNOMINMAX"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add option="-DHAVE_STD_REGEX"/>
+					<Add option="-DHAVE_STEADY_CLOCK"/>
+					<Add option="-DNDEBUG"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/include"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/../include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 benchmark_main/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="benchmark">
+				<Option output="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-build/src/benchmark.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-build/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DNDEBUG"/>
+					<Add option="-DNOMINMAX"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add option="-DHAVE_STD_REGEX"/>
+					<Add option="-DHAVE_STEADY_CLOCK"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/include"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/../include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 benchmark"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="benchmark/fast">
+				<Option output="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-build/src/benchmark.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-build/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DNDEBUG"/>
+					<Add option="-DNOMINMAX"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add option="-DHAVE_STD_REGEX"/>
+					<Add option="-DHAVE_STEADY_CLOCK"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/include"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src"/>
+					<Add directory="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/../include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 benchmark/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\benchmark-build\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/include/benchmark/benchmark.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/arraysize.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/benchmark.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/benchmark_api_internal.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/benchmark_api_internal.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/benchmark_main.cc">
+			<Option target="benchmark_main"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/benchmark_name.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/benchmark_register.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/benchmark_register.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/benchmark_runner.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/benchmark_runner.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/check.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/colorprint.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/colorprint.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/commandlineflags.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/commandlineflags.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/complexity.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/complexity.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/console_reporter.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/counter.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/counter.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/csv_reporter.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/cycleclock.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/internal_macros.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/json_reporter.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/log.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/mutex.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/re.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/reporter.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/sleep.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/sleep.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/statistics.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/statistics.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/string_util.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/string_util.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/sysinfo.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/thread_manager.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/thread_timer.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/timers.cc">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/timers.h">
+			<Option target="benchmark"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/examples/hello.cpp">
+			<Option target="hello"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/portfolio.cpp">
+			<Option target="portfolio"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/portfolio.h">
+			<Option target="portfolio"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/catch2-src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\catch2-src\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/catch2-src/contrib/Catch.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\catch2-src\contrib\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/cmake/AddCXXCompilerFlag.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/cmake/CXXFeatureCheck.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/cmake/Config.cmake.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/cmake/GetGitVersion.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/cmake/benchmark.pc.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake/CPM.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake/functions.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\source\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/examples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/tests/benchmarks/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\benchmarks\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/tests/unit_tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\unit_tests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

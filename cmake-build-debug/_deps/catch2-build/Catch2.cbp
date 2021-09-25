@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Catch2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\_deps\;CMake Files\cmake-build-debug\_deps\catch2-src\;CMake Files\cmake-build-debug\_deps\catch2-src\contrib\;CMake Files\cmake-build-debug\_deps\benchmark-src\;CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\;CMake Files\cmake-build-debug\_deps\benchmark-src\src\;CMake Files\cmake\;CMake Files\source\;CMake Files\examples\;CMake Files\tests\;CMake Files\tests\benchmarks\;CMake Files\tests\unit_tests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/catch2-build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\catch2-build\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\catch2-build\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\catch2-build\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\_deps\catch2-build\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/catch2-src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\catch2-src\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/catch2-src/contrib/Catch.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\catch2-src\contrib\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/cmake/AddCXXCompilerFlag.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/cmake/CXXFeatureCheck.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/cmake/Config.cmake.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/cmake/GetGitVersion.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/cmake/benchmark.pc.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake/CPM.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake/functions.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\source\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/examples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/tests/benchmarks/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\benchmarks\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/tests/unit_tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\unit_tests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
