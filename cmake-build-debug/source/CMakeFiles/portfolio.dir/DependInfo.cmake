@@ -8,8 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/portfolio.cpp" "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/source/CMakeFiles/portfolio.dir/portfolio/portfolio.cpp.obj"
-  )
+        "C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/portfolio.cpp" "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/source/CMakeFiles/portfolio.dir/portfolio/portfolio.cpp.obj"
+        "C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/portfolio_problem.cpp" "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/source/CMakeFiles/portfolio.dir/portfolio/portfolio_problem.cpp.obj"
+        )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 
 # Preprocessor definitions for this target.

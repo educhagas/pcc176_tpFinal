@@ -173,6 +173,36 @@ portfolio\portfolio.cpp.s:
 	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source
 .PHONY : portfolio\portfolio.cpp.s
 
+portfolio\portfolio_problem.obj: portfolio\portfolio_problem.cpp.obj
+.PHONY : portfolio\portfolio_problem.obj
+
+# target to build an object file
+portfolio\portfolio_problem.cpp.obj:
+	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug
+	$(MAKE) $(MAKESILENT) -f source\CMakeFiles\portfolio.dir\build.make /nologo -$(MAKEFLAGS) source\CMakeFiles\portfolio.dir\portfolio\portfolio_problem.cpp.obj
+	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source
+.PHONY : portfolio\portfolio_problem.cpp.obj
+
+portfolio\portfolio_problem.i: portfolio\portfolio_problem.cpp.i
+.PHONY : portfolio\portfolio_problem.i
+
+# target to preprocess a source file
+portfolio\portfolio_problem.cpp.i:
+	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug
+	$(MAKE) $(MAKESILENT) -f source\CMakeFiles\portfolio.dir\build.make /nologo -$(MAKEFLAGS) source\CMakeFiles\portfolio.dir\portfolio\portfolio_problem.cpp.i
+	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source
+.PHONY : portfolio\portfolio_problem.cpp.i
+
+portfolio\portfolio_problem.s: portfolio\portfolio_problem.cpp.s
+.PHONY : portfolio\portfolio_problem.s
+
+# target to generate assembly for a file
+portfolio\portfolio_problem.cpp.s:
+	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug
+	$(MAKE) $(MAKESILENT) -f source\CMakeFiles\portfolio.dir\build.make /nologo -$(MAKEFLAGS) source\CMakeFiles\portfolio.dir\portfolio\portfolio_problem.cpp.s
+	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source
+.PHONY : portfolio\portfolio_problem.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -186,6 +216,9 @@ help:
 	@echo ... portfolio/portfolio.obj
 	@echo ... portfolio/portfolio.i
 	@echo ... portfolio/portfolio.s
+	@echo ... portfolio/portfolio_problem.obj
+	@echo ... portfolio/portfolio_problem.i
+	@echo ... portfolio/portfolio_problem.s
 .PHONY : help
 
 

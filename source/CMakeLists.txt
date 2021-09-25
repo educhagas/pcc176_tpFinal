@@ -14,8 +14,11 @@ target_include_directories(range-v3 INTERFACE "${range-v3_SOURCE_DIR}/include")
 #######################################################
 
 add_library(portfolio
-            portfolio/portfolio.h
-            portfolio/portfolio.cpp)
+        portfolio/portfolio.h
+        portfolio/portfolio.cpp
+        portfolio/portfolio_problem.h
+        portfolio/portfolio_problem.cpp
+        )
 
 target_include_directories(portfolio
         PUBLIC $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}>

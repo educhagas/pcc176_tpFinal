@@ -431,6 +431,12 @@
 		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/portfolio.h">
 			<Option target="portfolio"/>
 		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/portfolio_problem.cpp">
+			<Option target="portfolio"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/portfolio_problem.h">
+			<Option target="portfolio"/>
+		</Unit>
 		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

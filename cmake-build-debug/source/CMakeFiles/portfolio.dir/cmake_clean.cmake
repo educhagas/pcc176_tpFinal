@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/portfolio.dir/portfolio/portfolio.cpp.obj"
-  "portfolio.lib"
+        "CMakeFiles/portfolio.dir/portfolio/portfolio_problem.cpp.obj"
+        "portfolio.lib"
   "portfolio.pdb"
 )
 

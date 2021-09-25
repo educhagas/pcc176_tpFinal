@@ -80,17 +80,44 @@ source\CMakeFiles\portfolio.dir\portfolio\portfolio.cpp.s: cmake_force
 <<
 	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug
 
+source\CMakeFiles\portfolio.dir\portfolio\portfolio_problem.cpp.obj: source\CMakeFiles\portfolio.dir\flags.make
+source\CMakeFiles\portfolio.dir\portfolio\portfolio_problem.cpp.obj: ..\source\portfolio\portfolio_problem.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object source/CMakeFiles/portfolio.dir/portfolio/portfolio_problem.cpp.obj"
+	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\portfolio.dir\portfolio\portfolio_problem.cpp.obj /FdCMakeFiles\portfolio.dir\portfolio.pdb /FS -c C:\Users\eduar\CLionProjects\pcc176_tpFinal\source\portfolio\portfolio_problem.cpp
+<<
+	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug
+
+source\CMakeFiles\portfolio.dir\portfolio\portfolio_problem.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/portfolio.dir/portfolio/portfolio_problem.cpp.i"
+	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x86\cl.exe > CMakeFiles\portfolio.dir\portfolio\portfolio_problem.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eduar\CLionProjects\pcc176_tpFinal\source\portfolio\portfolio_problem.cpp
+<<
+	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug
+
+source\CMakeFiles\portfolio.dir\portfolio\portfolio_problem.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/portfolio.dir/portfolio/portfolio_problem.cpp.s"
+	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\portfolio.dir\portfolio\portfolio_problem.cpp.s /c C:\Users\eduar\CLionProjects\pcc176_tpFinal\source\portfolio\portfolio_problem.cpp
+<<
+	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug
+
 # Object files for target portfolio
 portfolio_OBJECTS = \
-"CMakeFiles\portfolio.dir\portfolio\portfolio.cpp.obj"
+"CMakeFiles\portfolio.dir\portfolio\portfolio.cpp.obj" \
+"CMakeFiles\portfolio.dir\portfolio\portfolio_problem.cpp.obj"
 
 # External object files for target portfolio
 portfolio_EXTERNAL_OBJECTS =
 
 source\portfolio.lib: source\CMakeFiles\portfolio.dir\portfolio\portfolio.cpp.obj
+source\portfolio.lib: source\CMakeFiles\portfolio.dir\portfolio\portfolio_problem.cpp.obj
 source\portfolio.lib: source\CMakeFiles\portfolio.dir\build.make
 source\portfolio.lib: source\CMakeFiles\portfolio.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library portfolio.lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library portfolio.lib"
 	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug\source
 	$(CMAKE_COMMAND) -P CMakeFiles\portfolio.dir\cmake_clean_target.cmake
 	cd C:\Users\eduar\CLionProjects\pcc176_tpFinal\cmake-build-debug
