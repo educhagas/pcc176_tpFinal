@@ -1,0 +1,12 @@
+{
+  "backtraceGraph": {
+    "commands": [],
+    "files": [],
+    "nodes": []
+  },
+  "installers": [],
+  "paths": {
+    "build": "_deps/matplotplusplus-build/examples/surfaces/ribbon",
+    "source": "cmake-build-debug/_deps/matplotplusplus-src/examples/surfaces/ribbon"
+  }
+}

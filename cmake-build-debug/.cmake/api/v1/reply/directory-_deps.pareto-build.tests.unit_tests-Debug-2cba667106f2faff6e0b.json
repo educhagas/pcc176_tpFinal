@@ -1,0 +1,12 @@
+{
+  "backtraceGraph": {
+    "commands": [],
+    "files": [],
+    "nodes": []
+  },
+  "installers": [],
+  "paths": {
+    "build": "_deps/pareto-build/tests/unit_tests",
+    "source": "cmake-build-debug/_deps/pareto-src/tests/unit_tests"
+  }
+}

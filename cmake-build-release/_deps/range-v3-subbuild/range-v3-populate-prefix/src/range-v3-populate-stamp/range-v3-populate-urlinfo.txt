@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/ericniebler/range-v3/archive/0.11.0.zip'
+tag=''

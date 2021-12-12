@@ -5,12 +5,12 @@ cmake_minimum_required(VERSION 3.5)
 
 function(get_hash_for_ref ref out_var err_var)
   execute_process(
-    COMMAND "C:/Program Files/Git/cmd/git.exe" rev-parse "${ref}"
-    WORKING_DIRECTORY "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/catch2-src"
-    RESULT_VARIABLE error_code
-    OUTPUT_VARIABLE ref_hash
-    ERROR_VARIABLE error_msg
-    OUTPUT_STRIP_TRAILING_WHITESPACE
+          COMMAND "C:/Program Files/Git/cmd/git.exe" rev-parse "${ref}^0"
+          WORKING_DIRECTORY "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/catch2-src"
+          RESULT_VARIABLE error_code
+          OUTPUT_VARIABLE ref_hash
+          ERROR_VARIABLE error_msg
+          OUTPUT_STRIP_TRAILING_WHITESPACE
   )
   if(error_code)
     set(${out_var} "" PARENT_SCOPE)

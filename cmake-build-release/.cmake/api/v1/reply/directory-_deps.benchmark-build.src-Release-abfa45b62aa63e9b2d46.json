@@ -1,0 +1,12 @@
+{
+  "backtraceGraph": {
+    "commands": [],
+    "files": [],
+    "nodes": []
+  },
+  "installers": [],
+  "paths": {
+    "build": "_deps/benchmark-build/src",
+    "source": "cmake-build-release/_deps/benchmark-src/src"
+  }
+}

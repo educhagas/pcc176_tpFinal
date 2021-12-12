@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/market_data.h
+string_view
+-
+vector
+-
+
+C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/portfolio.cpp
+random
+-
+chrono
+-
+numeric
+-
+iostream
+-
+portfolio.h
+C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/portfolio.h
+
+C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/portfolio.h
+ostream
+-
+market_data.h
+C:/Users/eduar/CLionProjects/pcc176_tpFinal/source/portfolio/market_data.h
+

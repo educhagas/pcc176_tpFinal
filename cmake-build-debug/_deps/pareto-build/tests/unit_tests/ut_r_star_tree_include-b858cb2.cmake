@@ -1,0 +1,5 @@
+if (EXISTS "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-build/tests/unit_tests/ut_r_star_tree_tests-b858cb2.cmake")
+    include("C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-build/tests/unit_tests/ut_r_star_tree_tests-b858cb2.cmake")
+else ()
+    add_test(ut_r_star_tree_NOT_BUILT-b858cb2 ut_r_star_tree_NOT_BUILT-b858cb2)
+endif ()

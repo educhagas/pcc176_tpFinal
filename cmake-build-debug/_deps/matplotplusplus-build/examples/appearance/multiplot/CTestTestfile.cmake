@@ -1,0 +1,11 @@
+# CMake generated Testfile for 
+# Source directory: C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/multiplot
+# Build directory: C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-build/examples/appearance/multiplot
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("hold")
+subdirs("yyaxis")
+subdirs("colororder")
+subdirs("subplot")
+subdirs("tiledlayout")

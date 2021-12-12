@@ -1,0 +1,12 @@
+{
+  "backtraceGraph": {
+    "commands": [],
+    "files": [],
+    "nodes": []
+  },
+  "installers": [],
+  "paths": {
+    "build": "_deps/matplotplusplus-build/examples/appearance/colormaps",
+    "source": "cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/colormaps"
+  }
+}

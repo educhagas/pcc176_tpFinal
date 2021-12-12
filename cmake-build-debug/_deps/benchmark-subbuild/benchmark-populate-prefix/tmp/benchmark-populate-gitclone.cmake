@@ -32,12 +32,12 @@ if(error_code)
 endif()
 
 execute_process(
-  COMMAND "C:/Program Files/Git/cmd/git.exe"  checkout v1.5.1 --
-  WORKING_DIRECTORY "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src"
-  RESULT_VARIABLE error_code
-  )
+        COMMAND "C:/Program Files/Git/cmd/git.exe" checkout v1.5.0 --
+        WORKING_DIRECTORY "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src"
+        RESULT_VARIABLE error_code
+)
 if(error_code)
-  message(FATAL_ERROR "Failed to checkout tag: 'v1.5.1'")
+  message(FATAL_ERROR "Failed to checkout tag: 'v1.5.0'")
 endif()
 
 set(init_submodules TRUE)

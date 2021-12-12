@@ -1,0 +1,12 @@
+{
+  "backtraceGraph": {
+    "commands": [],
+    "files": [],
+    "nodes": []
+  },
+  "installers": [],
+  "paths": {
+    "build": "_deps/matplotplusplus-build/examples/annotations/rectangle",
+    "source": "cmake-build-release/_deps/matplotplusplus-src/examples/annotations/rectangle"
+  }
+}

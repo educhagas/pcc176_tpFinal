@@ -5,7 +5,7 @@
 		<Option title="Catch2"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="msvc8"/>
-		<Option virtualFolders="CMake Files\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\_deps\;CMake Files\cmake-build-debug\_deps\catch2-src\;CMake Files\cmake-build-debug\_deps\catch2-src\contrib\;CMake Files\cmake-build-debug\_deps\benchmark-src\;CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\;CMake Files\cmake-build-debug\_deps\benchmark-src\src\;CMake Files\cmake\;CMake Files\source\;CMake Files\examples\;CMake Files\tests\;CMake Files\tests\benchmarks\;CMake Files\tests\unit_tests\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\_deps\;CMake Files\cmake-build-debug\_deps\catch2-src\;CMake Files\cmake-build-debug\_deps\catch2-src\contrib\;CMake Files\cmake-build-debug\_deps\benchmark-src\;CMake Files\cmake-build-debug\_deps\benchmark-src\cmake\;CMake Files\cmake-build-debug\_deps\benchmark-src\src\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\cmake\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\cmake\functions\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\source\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\source\3rd_party\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\source\matplot\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\test\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\test\generate_examples\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\test\backends\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\plot\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\plot3\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\stairs\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\errorbar\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\area\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\loglog\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\semilogx\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\semilogy\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\fplot\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\fplot3\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\fimplicit\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\histogram\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\boxplot\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\scatter\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\scatter3\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\binscatter\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\plotmatrix\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\parallelplot\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\pie\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\heatmap\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\wordcloud\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\discrete_data\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\discrete_data\bar\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\discrete_data\pareto\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\discrete_data\stem\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\discrete_data\stem3\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\geography\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\geography\geoplot\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\geography\geoscatter\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\geography\geobubble\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\geography\geodensityplot\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\polar_plots\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\polar_plots\polarplot\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\polar_plots\polarscatter\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\polar_plots\polarhistogram\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\polar_plots\compass\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\polar_plots\ezpolar\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\contour_plots\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\contour_plots\contour\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\contour_plots\contourf\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\contour_plots\fcontour\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\vector_fields\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\vector_fields\quiver\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\vector_fields\quiver3\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\vector_fields\feather\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\surf\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\surfc\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\mesh\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\meshc\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\meshz\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\fsurf\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\fmesh\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\waterfall\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\fence\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\ribbon\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\graphs\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\graphs\graph\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\graphs\digraph\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\images\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\images\imshow\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\images\image\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\images\imagesc\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\text\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\textarrow\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\rectangle\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\fill\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\ellipse\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\textbox\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\arrow\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\line\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\title\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\sgtitle\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\xlabel\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\ylabel\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\zlabel\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\legend\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axis\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axis\xlim\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axis\ylim\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axis\zlim\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axis\axis\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axis\box\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\grid\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\xticks\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\yticks\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\zticks\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\xticklabels\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\yticklabels\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\xtickformat\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\ytickformat\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\ztickformat\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\xtickangle\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\ytickangle\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\multiplot\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\multiplot\hold\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\multiplot\yyaxis\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\multiplot\colororder\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\multiplot\subplot\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\multiplot\tiledlayout\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\colormaps\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\colormaps\colormap\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\colormaps\colorbar\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\colormaps\rgbplot\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\camera\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\camera\view\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\camera\lighting\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\figure\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\line_spec\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axes\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\cla\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\exporting\;CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\exporting\save\;CMake Files\cmake-build-debug\_deps\pareto-src\;CMake Files\cmake-build-debug\_deps\pareto-src\cmake\;CMake Files\cmake-build-debug\_deps\pareto-src\source\;CMake Files\cmake-build-debug\_deps\pareto-src\examples\;CMake Files\cmake-build-debug\_deps\pareto-src\tests\;CMake Files\cmake-build-debug\_deps\pareto-src\tests\benchmarks\;CMake Files\cmake-build-debug\_deps\pareto-src\tests\unit_tests\;CMake Files\cmake\;CMake Files\source\;CMake Files\examples\;CMake Files\tests\;CMake Files\tests\benchmarks\;CMake Files\tests\unit_tests\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/catch2-build"/>
@@ -47,6 +47,438 @@
 		</Unit>
 		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/benchmark-src/src/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\benchmark-src\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/cmake/FindFFTW.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/cmake/FindFilesystem.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/cmake/FindOpenCV.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/cmake/functions.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/cmake/functions/link_external_libraries.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\cmake\functions\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/cmake/functions/project_flags.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\cmake\functions\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/cmake/functions/sanitizers.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\cmake\functions\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/cmake/functions/target_options.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\cmake\functions\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/source/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\source\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/source/3rd_party/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\source\3rd_party\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/source/matplot/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\source\matplot\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\test\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/test/generate_examples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\test\generate_examples\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/test/backends/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\test\backends\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/line_plot/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/line_plot/plot/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\plot\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/line_plot/plot3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\plot3\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/line_plot/stairs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\stairs\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/line_plot/errorbar/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\errorbar\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/line_plot/area/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\area\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/line_plot/loglog/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\loglog\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/line_plot/semilogx/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\semilogx\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/line_plot/semilogy/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\semilogy\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/line_plot/fplot/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\fplot\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/line_plot/fplot3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\fplot3\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/line_plot/fimplicit/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\line_plot\fimplicit\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/data_distribution/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/data_distribution/histogram/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\histogram\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/data_distribution/boxplot/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\boxplot\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/data_distribution/scatter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\scatter\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/data_distribution/scatter3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\scatter3\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/data_distribution/binscatter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\binscatter\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/data_distribution/plotmatrix/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\plotmatrix\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/data_distribution/parallelplot/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\parallelplot\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/data_distribution/pie/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\pie\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/data_distribution/heatmap/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\heatmap\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/data_distribution/wordcloud/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\data_distribution\wordcloud\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/discrete_data/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\discrete_data\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/discrete_data/bar/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\discrete_data\bar\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/discrete_data/pareto/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\discrete_data\pareto\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/discrete_data/stem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\discrete_data\stem\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/discrete_data/stem3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\discrete_data\stem3\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/geography/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\geography\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/geography/geoplot/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\geography\geoplot\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/geography/geoscatter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\geography\geoscatter\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/geography/geobubble/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\geography\geobubble\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/geography/geodensityplot/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\geography\geodensityplot\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/polar_plots/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\polar_plots\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/polar_plots/polarplot/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\polar_plots\polarplot\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/polar_plots/polarscatter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\polar_plots\polarscatter\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/polar_plots/polarhistogram/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\polar_plots\polarhistogram\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/polar_plots/compass/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\polar_plots\compass\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/polar_plots/ezpolar/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\polar_plots\ezpolar\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/contour_plots/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\contour_plots\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/contour_plots/contour/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\contour_plots\contour\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/contour_plots/contourf/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\contour_plots\contourf\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/contour_plots/fcontour/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\contour_plots\fcontour\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/vector_fields/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\vector_fields\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/vector_fields/quiver/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\vector_fields\quiver\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/vector_fields/quiver3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\vector_fields\quiver3\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/vector_fields/feather/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\vector_fields\feather\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/surfaces/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/surfaces/surf/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\surf\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/surfaces/surfc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\surfc\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/surfaces/mesh/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\mesh\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/surfaces/meshc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\meshc\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/surfaces/meshz/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\meshz\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/surfaces/fsurf/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\fsurf\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/surfaces/fmesh/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\fmesh\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/surfaces/waterfall/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\waterfall\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/surfaces/fence/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\fence\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/surfaces/ribbon/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\surfaces\ribbon\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/graphs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\graphs\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/graphs/graph/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\graphs\graph\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/graphs/digraph/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\graphs\digraph\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/images/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\images\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/images/imshow/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\images\imshow\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/images/image/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\images\image\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/images/imagesc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\images\imagesc\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/annotations/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/annotations/text/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\text\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/annotations/textarrow/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\textarrow\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/annotations/rectangle/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\rectangle\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/annotations/fill/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\fill\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/annotations/ellipse/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\ellipse\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/annotations/textbox/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\textbox\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/annotations/arrow/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\arrow\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/annotations/line/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\annotations\line\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/labels/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/labels/title/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\title\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/labels/sgtitle/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\sgtitle\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/labels/xlabel/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\xlabel\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/labels/ylabel/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\ylabel\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/labels/zlabel/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\zlabel\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/labels/legend/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\labels\legend\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/axis/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axis\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/axis/xlim/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axis\xlim\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/axis/ylim/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axis\ylim\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/axis/zlim/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axis\zlim\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/axis/axis/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axis\axis\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/axis/box/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axis\box\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/grid/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/grid/grid/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\grid\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/grid/xticks/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\xticks\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/grid/yticks/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\yticks\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/grid/zticks/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\zticks\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/grid/xticklabels/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\xticklabels\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/grid/yticklabels/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\yticklabels\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/grid/xtickformat/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\xtickformat\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/grid/ytickformat/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\ytickformat\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/grid/ztickformat/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\ztickformat\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/grid/xtickangle/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\xtickangle\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/grid/ytickangle/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\grid\ytickangle\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/multiplot/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\multiplot\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/multiplot/hold/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\multiplot\hold\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/multiplot/yyaxis/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\multiplot\yyaxis\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/multiplot/colororder/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\multiplot\colororder\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/multiplot/subplot/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\multiplot\subplot\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/multiplot/tiledlayout/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\multiplot\tiledlayout\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/colormaps/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\colormaps\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/colormaps/colormap/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\colormaps\colormap\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/colormaps/colorbar/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\colormaps\colorbar\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/colormaps/rgbplot/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\colormaps\rgbplot\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/camera/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\camera\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/camera/view/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\camera\view\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/camera/lighting/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\camera\lighting\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/figure/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\figure\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/line_spec/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\line_spec\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/axes/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\axes\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/appearance/cla/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\appearance\cla\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/exporting/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\exporting\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/matplotplusplus-src/examples/exporting/save/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\matplotplusplus-src\examples\exporting\save\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\pareto-src\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-src/cmake/CPM.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\pareto-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-src/cmake/FindPMR.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\pareto-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-src/cmake/functions.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\pareto-src\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-src/source/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\pareto-src\source\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-src/examples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\pareto-src\examples\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-src/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\pareto-src\tests\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-src/tests/benchmarks/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\pareto-src\tests\benchmarks\"/>
+		</Unit>
+		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-src/tests/unit_tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\pareto-src\tests\unit_tests\"/>
 		</Unit>
 		<Unit filename="C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake/CPM.cmake">
 			<Option virtualFolder="CMake Files\cmake\"/>

@@ -6,7 +6,29 @@
 
 #IncludeRegexTransform: 
 
+../source/portfolio/descida.h
+portfolio.h
+../source/portfolio/portfolio.h
+
+../source/portfolio/market_data.h
+string_view
+-
+vector
+-
+
+../source/portfolio/portfolio.h
+ostream
+-
+market_data.h
+../source/portfolio/market_data.h
+
 C:/Users/eduar/CLionProjects/pcc176_tpFinal/examples/hello.cpp
 iostream
 -
+portfolio/portfolio.h
+-
+portfolio/market_data.h
+C:/Users/eduar/CLionProjects/pcc176_tpFinal/examples/portfolio/market_data.h
+portfolio/descida.h
+C:/Users/eduar/CLionProjects/pcc176_tpFinal/examples/portfolio/descida.h
 

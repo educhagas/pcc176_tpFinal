@@ -1,0 +1,5 @@
+if (EXISTS "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-build/tests/unit_tests/ut_front_interface_tests-b858cb2.cmake")
+    include("C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-debug/_deps/pareto-build/tests/unit_tests/ut_front_interface_tests-b858cb2.cmake")
+else ()
+    add_test(ut_front_interface_NOT_BUILT-b858cb2 ut_front_interface_NOT_BUILT-b858cb2)
+endif ()

@@ -1,0 +1,43 @@
+{
+  "sources": [
+    {
+      "file": "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-release/_deps/range-v3-subbuild/CMakeFiles/range-v3-populate"
+    },
+    {
+      "file": "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-release/_deps/range-v3-subbuild/CMakeFiles/range-v3-populate.rule"
+    },
+    {
+      "file": "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-release/_deps/range-v3-subbuild/CMakeFiles/range-v3-populate-complete.rule"
+    },
+    {
+      "file": "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-release/_deps/range-v3-subbuild/range-v3-populate-prefix/src/range-v3-populate-stamp/range-v3-populate-build.rule"
+    },
+    {
+      "file": "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-release/_deps/range-v3-subbuild/range-v3-populate-prefix/src/range-v3-populate-stamp/range-v3-populate-configure.rule"
+    },
+    {
+      "file": "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-release/_deps/range-v3-subbuild/range-v3-populate-prefix/src/range-v3-populate-stamp/range-v3-populate-download.rule"
+    },
+    {
+      "file": "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-release/_deps/range-v3-subbuild/range-v3-populate-prefix/src/range-v3-populate-stamp/range-v3-populate-install.rule"
+    },
+    {
+      "file": "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-release/_deps/range-v3-subbuild/range-v3-populate-prefix/src/range-v3-populate-stamp/range-v3-populate-mkdir.rule"
+    },
+    {
+      "file": "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-release/_deps/range-v3-subbuild/range-v3-populate-prefix/src/range-v3-populate-stamp/range-v3-populate-patch.rule"
+    },
+    {
+      "file": "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-release/_deps/range-v3-subbuild/range-v3-populate-prefix/src/range-v3-populate-stamp/range-v3-populate-test.rule"
+    },
+    {
+      "file": "C:/Users/eduar/CLionProjects/pcc176_tpFinal/cmake-build-release/_deps/range-v3-subbuild/range-v3-populate-prefix/src/range-v3-populate-stamp/range-v3-populate-update.rule"
+    }
+  ],
+  "target": {
+    "labels": [
+      "range-v3-populate"
+    ],
+    "name": "range-v3-populate"
+  }
+}
